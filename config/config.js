@@ -89,8 +89,15 @@ var config = {
     work: [
         //如果您内有工作经历，您可以采取下列写法
         // ["————————", "", "<p>暂无工作经历，期待您的联系。</p>"]
+        ["2022/8/1 — 2023/12/10", "<br>Gate Global",
+            "<p><strong>Ecosystem Manager </strong></p>" +
+            "<p> Maintained partnerships with GateChain projects and ensured effective communication between projects and GateChain </p>" +
+            "<p>Assisted GateChain and GateGrants projects in marketing promotions with the operation and marketing teams</p>"+
+            "<p>Achieved a successful integration of over 30 projects based on GateChain out of the 100 reached out to</p>"+
+            "<p>Reviewed and evaluated over 100 grant projects and facilitated the selection of over 20 projects for grants</p>"
+        ],
 
-        ["2022/8/1 — 2023/12/10", "<br>BKEX",
+        ["2022/1/1 — 2022/8/10", "<br>BKEX",
             "<p><strong>Business Manager </strong></p>" +
             "<p>Identified potential B-end KOLs through overseas social media platforms such as YouTube and Twitter, conducted business negotiations, and facilitated partnerships</p>" +
             "<p>Regularly engaged with users acquired through the company's online campaigns and conducted user profiling to develop targeted operational plans</p>"+
@@ -100,7 +107,7 @@ var config = {
             "<p>Kept up-to-date with blockchain industry developments and competitor activities, continuously learning to enhance industry insights</p>"
         ],
 
-        ["2022/1/1 — 2022/8/10", "<br>HTX(Huobi)",
+        ["2020/1/1 — 2020/12/10", "<br>HTX(Huobi)",
             "<p><strong>Business Development (BD)</strong></p>" +
             "<p>Identified potential clients through social media platforms such as YouTube and Twitter, conducted business negotiations, and facilitated partnerships</p>" +
             "<p>Expanded network and resources through offline cooperation with company partners</p>"+
@@ -110,12 +117,7 @@ var config = {
             "<p>Actively participated in company marketing projects, developed new clients, and maintained existing clients. Provided clients with the latest industry trends and information, maintaining good relationships with clients</p>"+
             "<p>Kept up-to-date with blockchain industry developments and competitor activities, continuously learning to enhance industry insights</p>"
         ],
-        ["2020/2/1 — 2021/12/10", "<br>AscendEx",
-            "<p><strong>Project Responsibilities</strong></p>" +
-            "<p>Conducted marketing campaigns for the project primarily through Twitter KOLs and YouTube to increase its exposure</p>" +
-            "<p>Collected overseas KOL resources on platforms such as Twitter YouTube and TikTok</p>" +
-            "<p>Monitored the promotional effectiveness of KOLs and recorded conversion results</p>"
-        ],
+        
     ],
 
 
